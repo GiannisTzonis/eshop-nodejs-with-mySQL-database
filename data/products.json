@@ -1,1 +1,9 @@
-[{"title":"Funky T-Shirt","imageUrl":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F33%2F0d%2F63%2F330d630e9bb089b94006907576fd22c2.jpg&f=1&nofb=1&ipt=a271f5ea20cef653b71f13c6175cb5fc8a7c6beb7095ce74077904db824ba41c&ipo=images","description":"Get Funky. 100% Cotton","price":"15"},{"title":"book","imageUrl":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7-i0WE7yYrK9RSe1WIfy7wHaE8%26pid%3DApi&f=1&ipt=6511198393d2a23ef18541ed5c5fc17fa96b2488c62c7f2582a2d7c80910496b&ipo=images","description":"asd asd asd asd asdas dasdasdas","price":"9"}]
+[
+  {
+    "id": "123245",
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+  }
+]
